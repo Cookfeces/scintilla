@@ -389,6 +389,10 @@ LexJSON.o: ../lexers/LexJSON.cxx ../include/ILexer.h \
  ../include/Sci_Position.h ../include/Scintilla.h ../include/SciLexer.h \
  ../lexlib/WordList.h ../lexlib/LexAccessor.h ../lexlib/StyleContext.h \
  ../lexlib/CharacterSet.h ../lexlib/LexerModule.h ../lexlib/OptionSet.h
+LexCsky.o: ../lexers/LexCsky.cxx ../include/ILexer.h \
+ ../include/Sci_Position.h ../include/Scintilla.h ../include/SciLexer.h \
+ ../lexlib/WordList.h ../lexlib/LexAccessor.h ../lexlib/StyleContext.h \
+ ../lexlib/CharacterSet.h ../lexlib/LexerModule.h ../lexlib/OptionSet.h
 LexKix.o: ../lexers/LexKix.cxx ../include/ILexer.h \
  ../include/Sci_Position.h ../include/Scintilla.h ../include/SciLexer.h \
  ../lexlib/WordList.h ../lexlib/LexAccessor.h ../lexlib/Accessor.h \
